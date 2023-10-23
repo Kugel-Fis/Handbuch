@@ -16,12 +16,12 @@ Unter dem Reiter `Wartungslisten` in KUGEL-FIS können Einträge gesucht werden.
 
    2. Mit der `Erweiterten Suche` können umfangreiche Suchanfragen für eine oder mehrere Einträge gemacht werden. Über die freie Auswahl von Suchkriterien können spezifische Anfragen bearbeitet werden. 
 
-.. image:: ../screenshots/zwölf.png
+.. image:: /screenshots/zwölf.png
    :alt: Ansicht von `Export Suche`.
    :width: 300px
 
 Darüber hinaus können die Suchergebnisse direkt in Excel oder PDF Listen exportiert werden. Wähle dazu einfach das gewünschte Export-Format via Klick aus.
 
-.. image:: ../screenshots/dreizehn.png
+.. image:: /screenshots/dreizehn.png
    :alt: Ansicht von `Export Suche`.
    :width: 300px
