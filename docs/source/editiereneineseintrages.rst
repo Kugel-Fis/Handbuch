@@ -6,11 +6,11 @@ Nach dem Eintragen einer Publikation lässt sich diese in KUGEL-FIS weiter editi
 
 • Nach dem ersten Eintragen einer Publikation lässt sich über  `Neuen Eintrag editieren` die Detailansicht der eingetragenen Publikation öffnen, um sie zu editieren.
 
-.. image:: ../screenshots/zwei.png
+.. image:: /screenshots/zwei.png
    :alt: Erste Ansicht von `Neuen Eintrag hinzufügen`.
    :width: 300px
 
-.. image:: ../screenshots/vier.png
+.. image:: /screenshots/vier.png
    :alt: Erste Ansicht von `Neuen Eintrag hinzufügen`.
    :width: 300px
 
@@ -18,7 +18,7 @@ oder
 
 • Unter Forschung -> Publikationen etc. erstellt KUGEL-FIS eine Liste aller eingetragenen Publikationen, die sich durch ein einfaches Anklicken in ihrer Detailansicht öffnen lassen, um sie dann zu editieren.
 
-.. image:: ../screenshots/fünf.png
+.. image:: /screenshots/fünf.png
    :alt: Erste Ansicht von `Neuen Eintrag hinzufügen`.
    :width: 300px
 
@@ -37,25 +37,25 @@ Eine Übersicht und kurze Erklärung zu den Funktionsfeldern der jeweiligen Ress
 
 Von zentraler Bedeutung beim Editieren eines Eintrages in das Auswählen einer FP-Zugehörigkeit in der rechten Spalte: 
 
-.. image:: ../screenshots/sechs.png
+.. image:: /screenshots/sechs.png
    :alt: Erste Ansicht von `Neuen Eintrag hinzufügen`.
    :width: 200px
 
 Darüber hinaus lässt sich in der rechten Spalte auch nachträglich nochmal der `Ressourcentyp` ändern: 
 
-.. image:: ../screenshots/sieben.png
+.. image:: /screenshots/sieben.png
    :alt: Erste Ansicht von `Neuen Eintrag hinzufügen`.
    :width: 200px
 
 Bei offenen Fragen oder Anmerkungen kann der Eintrag mit einer Notiz versehen werden. Besteht Unsicherheit, z.Bsp. bezüglich der Ressourcentyp Zuordnung, können hier Anmerkungen und/oder Servicefragen hinterlassen werden. Diese Notiz sehen alle Autor*innen des Beitrages und die wird zusätzlich dem Qualitätsmanagement in KUGEL-FIS beim Datencheck angezeigt. 
 
-.. image:: ../screenshots/acht.png
+.. image:: /screenshots/acht.png
    :alt: Erste Ansicht von `Neuen Eintrag hinzufügen`.
    :width: 200px
 
 In der `Dokumentinfo` findet sich die ID der eingetragenen Publikation. Darüber hinaus wird angezeigt, wann die Publikation erstmals eingetragen und bearbeitet wurde.
 
-.. image:: ../screenshots/neun.png
+.. image:: /screenshots/neun.png
    :alt: Erste Ansicht von `Neuen Eintrag hinzufügen`.
    :width: 200px
 
