@@ -1,24 +1,32 @@
-Welcome to Lumache's documentation!
-===================================
+.. Kugel-Fis Dokumentation documentation master file, created by
+   sphinx-quickstart on Sat Jan 16 18:48:31 2021.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
-.. note::
-
-   This project is under active development.
-
-   Lumache has its documentation hosted on Read the Docs.
-
-Contents
---------
+Willkommen - KUGEL-FIS Handbuch
+===================================================
 
 .. toctree::
+   :maxdepth: 1
+   :caption: Inhalt
 
-   usage
-   api
+   ersteschritte
+   publikation
+   editiereneineseintrages
+   workflow
+   auswertung
+   forschung
+   ressourcentypen
+   ressourcentypenformular
+   tools
+   rollenrechte
+   faqhilfe
+   
+
+
+Indizes und Tabellen
+=====================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
