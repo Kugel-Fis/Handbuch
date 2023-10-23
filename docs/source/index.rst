@@ -4,7 +4,6 @@
    contain the root `toctree` directive.
 
 Willkommen - KUGEL-FIS Handbuch
-Lecker Kugelfisch
 ===================================================
 
 .. toctree::
