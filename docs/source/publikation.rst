@@ -3,19 +3,19 @@ Eintragen einer Publikation
 ===================================================
 Unter dem Reiter `Forschung` lassen sich Publikationen eintragen. Um eine Publikation einzutragen, wähle `Forschung -> Forschungsinformationen -> Neuen Eintrag hinzufügen` aus. Es öffnet sich ein Fenster in dem sich Titel, Jahr, Name, Rolle und Ressourcentyp eintragen bzw. auswählen lassen. Trage hier mindestens den Titel und den Ressourcentyp ein und belasse vorerst deinen eigenen Namen im Namensfeld bestehen. Klicke dann `Speichern`. Achte bei `Name`, wenn du mehr als einen im Profil angelegt hast, darauf, dass du hier den gewünschten Namen wählst.
 
-.. image:: ../screenshots/eins.png
+.. image:: /screenshots/eins.png
    :alt: Erste Ansicht von `Neuen Eintrag hinzufügen`.
    :width: 300px
 
 Nach dem Speichern der ersten Angaben erscheint automatisch ein zweites Fenster in KUGEL-FIS, welches den Eintrag der Publikation bestätigt. 
 
-.. image:: ../screenshots/zwei.png
+.. image:: /screenshots/zwei.png
    :alt: Erste Ansicht von `Neuen Eintrag hinzufügen`.
    :width: 300px
 
 Ist der Eintrag, den du anlegen möchtest bereits in FIS vorhanden, wird dir eine Dubletten-Meldung angezeigt. 
 
-.. image:: ../screenshots/drei.png
+.. image:: /screenshots/drei.png
    :alt: Erste Ansicht von `Neuen Eintrag hinzufügen`.
    :width: 300px
 
